@@ -14,13 +14,13 @@ To get started with this project, follow these steps:
    git clone ``https://github.com/your-username/todo-list.git``
 
 2. Navigate to the project directory:   
-  ```cd todo-list```
+   ``cd todo-list``
 
 3. Install dependencies:
-  ```npm install```
+   ``npm install``
 
 4. Start the development server:
-  ```npm start```
+   ``npm start``
 
 **This will start the project in development mode and open it in your default web browser.**
 
