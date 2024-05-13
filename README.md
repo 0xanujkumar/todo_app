@@ -4,7 +4,7 @@ This project is a simple todo list application built using React. Users can add,
 
 ## Live Demo
 
-You can view a live demo of this project [here](https://example.com).
+You can view a live demo of this project [here](https://664253b982395f039c815b72--todoapp1809.netlify.app/).
 
 ## Getting Started
 
